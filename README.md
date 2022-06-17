@@ -1,4 +1,2 @@
 # Blackjack
-Simple Python Blackjack Game
-
-Simple text-based blackjack game where the user plays against a dealer.
+Simple text-based Python Blackjack game where the user plays against the dealer.
